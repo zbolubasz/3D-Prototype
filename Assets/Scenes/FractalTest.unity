@@ -771,7 +771,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bulletPrefab: {fileID: 54002633721308570, guid: 37d6f38fa4c3b1748bfba969c5a30afd,
     type: 2}
-  firingRate: 1.5
+  firingRate: 1.75
 --- !u!23 &849645687
 MeshRenderer:
   m_ObjectHideFlags: 0
